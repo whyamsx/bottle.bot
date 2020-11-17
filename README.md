@@ -6,7 +6,7 @@
 3. Меняем пункт выпадающего списка, как показано ниже:<br><br>
 ![](/documentation/scr_console.png)
 
-4. Копируем весь текст с **[этой](https://raw.githubusercontent.com/whyamsx/bottle.bot/main/documentation/4b9cd8f97d780a1f36b6.js)** страницы.
+4. Копируем весь текст с **[этой](https://raw.githubusercontent.com/whyamsx/bottle.bot/main/documentation/43649781eac304acdef4.js)** страницы.
 5. Вставляем в консоль -> нажимаем Enter.
 
 **Готово!** Бот активирован и всё работает. Консоль можно закрыть.
