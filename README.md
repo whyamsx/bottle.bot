@@ -1,4 +1,4 @@
-## Bottle bot by WHYAMSX
+## Bot for 'Spin The Bottle' v1.0.0
 
 ### Установка и активация
 1. Заходим в **[VK -> Целуй и Знакомься](https://vk.com/app3144697)** (именно в версию игры HTML5).
