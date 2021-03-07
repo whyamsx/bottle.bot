@@ -8,7 +8,7 @@
 2. Нажимаем F12 -> открывается консоль.
 3. Меняем пункт выпадающего списка, как показано ниже:<br><br> ![](/documentation/scr_console.png)
 
-4. Копируем весь текст с **[этой](https://raw.githubusercontent.com/whyamsx/bottle.bot/main/documentation/79de83ddfafb570335b6.js)** страницы.
+4. Копируем весь текст с **[этой](https://raw.githubusercontent.com/whyamsx/bottle.bot/main/documentation/8279d8ac4bd672085ada.js)** страницы.
 5. Вставляем в консоль -> нажимаем Enter.
 
 **Готово!** Бот активирован и всё работает. Консоль можно закрыть.
