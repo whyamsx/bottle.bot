@@ -1,2 +1,2 @@
 .gitignore
-documentation/data.s.json
+/documentation/data.s.json
